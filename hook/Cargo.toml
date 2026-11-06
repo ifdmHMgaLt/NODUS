@@ -1,0 +1,8 @@
+[package]
+name = "nodus-hook"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "nodus_hook"
+crate-type = ["cdylib"]
